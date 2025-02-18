@@ -33,7 +33,7 @@ The compiler of ZK-SecreC and the associated materials are published in three re
 * The [compiler](https://github.com/zk-secrec/compiler) repository contains the source code of the ZK-SecreC compiler, and the standard library of ZK-SecreC.
 * The [examples](https://github.com/zk-secrec/examples) repository contains a number of smaller and larger example programs written in ZK-SecreC.
 * The [documentation](https://github.com/zk-secrec/documentation) repository contains the source of the documentation. The documentation includes the introduction to ZK-SecreC language, and the language reference. It also includes the documentation of ZK-SecreC compiler, and the standard library.
-  * The documentation is served [here](https://zk-secrec.github.io/documentation/).
+  * The documentation is served [here](https://zk-secrec.cyber.ee).
 
 Each repository contains a README-file describing the content of the repository, and the instructions of making use of the content.
 
