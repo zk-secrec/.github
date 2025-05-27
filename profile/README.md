@@ -37,5 +37,5 @@ The compiler of ZK-SecreC and the associated materials are published in three re
 
 Each repository contains a README-file describing the content of the repository, and the instructions of making use of the content.
 
-The work on ZK-SecreC has mostly been funded by DARPA under contract no. HR0011-20-C-0083. The views, opinions, and/or findings expressed are those of the author(s) and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government. Additional funding has come from Estonian Research Council (grant no. PRG1780).
+The work on ZK-SecreC has mostly been funded by DARPA under contract no. HR0011-20-C-0083. The views, opinions, and/or findings expressed are those of the author(s) and should not be interpreted as representing the official views or policies of the Department of Defense or the U.S. Government. Additional funding has come from Estonian Research Council (grant no. PRG1780), and in part by the European Union (TEADAL, 101070186). Views and opinions expressed are, however, those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.
 
